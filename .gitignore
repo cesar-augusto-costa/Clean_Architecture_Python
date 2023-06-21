@@ -1,5 +1,5 @@
 **/__pycache__
 venv/
+storage.db
 .pytest_cache
 
-# 1:09:00
