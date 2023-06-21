@@ -1,3 +1,5 @@
 **/__pycache__
-05:00
 venv/
+.pytest_cache
+
+# 1:09:00
