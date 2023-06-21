@@ -2,4 +2,3 @@
 venv/
 storage.db
 .pytest_cache
-
