@@ -6,6 +6,8 @@ git clone https://github.com/cesar-augusto-costa/Clean_Architecture_Python.git
 
 cd Clean_Architecture_Python
 
+pip list
+
 python -m pip install --upgrade pip
 
 python -m venv venv
