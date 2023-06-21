@@ -1,5 +1,25 @@
 # Clean Architecture com Python
 
+- Iniciando o programa
+
+git clone https://github.com/cesar-augusto-costa/Clean_Architecture_Python.git
+
+cd Clean_Architecture_Python
+
+python -m pip install --upgrade pip
+
+python -m venv venv
+
+.\venv\Scripts\activate
+
+pip install -r .\requirements.txt
+
+pip list
+
+pre-commit install
+
+# Documentações Importantes
+
 https://peps.python.org/pep-0008/
 
 https://docs.pytest.org/en/stable/
