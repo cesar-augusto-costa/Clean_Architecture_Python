@@ -1,4 +1,3 @@
-# 53:00 conferir repositorio
 from faker import Faker
 
 from src.infra.config import DBConnectionHandler
